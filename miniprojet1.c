@@ -91,7 +91,7 @@ do{
 
        else{
         printf("The book doesn’t exist");
-       };
+       };break;
 }
 
 }while(chiox!=7);
